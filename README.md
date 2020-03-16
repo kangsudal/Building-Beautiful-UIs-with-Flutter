@@ -1,16 +1,16 @@
 # friendlychat
 
-A new Flutter project.
+Demo based on - Building Beautiful UIs with Flutter ( Codelabs Series )
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![photo_2020-03-15_20-40-31](https://user-images.githubusercontent.com/32862869/76700695-84438d00-66fd-11ea-9868-704c084fc4bd.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## What I've covered
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+    How to build a Flutter app from the ground up in the IntelliJ editor.
+    How to run, hot reload, and debug your Flutter app on a simulator/emulator and on a device.
+    How to customize your user interface with widgets and animations.
+    How to customize your user interface for iOS and Android.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
